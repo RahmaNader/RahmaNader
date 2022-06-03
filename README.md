@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rahma Nader</h1>
-<h3 align="center">A passionate frontend developer from Egypt</h3>
+<h3 align="center">A passionate Software developer</h3>
 
-- 🌱 I’m currently learning **Flutter**
-
-- 📫 How to reach me **rahmanaderm@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
