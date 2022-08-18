@@ -9,7 +9,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RahmaNader&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact) 
 
 # Profile views:
-[![](https://visitcount.itsvg.in/api?id=RahmaNader&icon=9&color=11)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=RahmaNader&label=Profile%20Views&color=11&icon=6&pretty=true)](https://visitcount.itsvg.in)
 
 ## 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=RahmaNader&theme=radical&no-frame=false&no-bg=false&margin-w=4)
