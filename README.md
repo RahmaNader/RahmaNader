@@ -1,6 +1,6 @@
 
  # 💁🏽‍♀️ About Me:
-Android software engineer
+Software developer.
 </br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](//www.linkedin.com/in/rahma-nader-9527a31b0/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/13944589) 
 </br>
